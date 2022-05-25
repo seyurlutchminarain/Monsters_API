@@ -1,0 +1,3 @@
+# This will ignore publishing these files so no one has access to them
+secrets/
+node_modules/
